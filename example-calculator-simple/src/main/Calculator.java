@@ -39,4 +39,8 @@ public class Calculator {
                 resultado /= valor;
         }
     }
+
+    public void limpaTela() {
+        resultado = 0;
+    }
 }
