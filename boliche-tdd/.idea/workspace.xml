@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb1411bd-00e0-43bc-bae0-17aa2e00f6c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTzecAi0gys6g1DTjpqLeb8FUg" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boliche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb1411bd-00e0-43bc-bae0-17aa2e00f6c1" name="Default Changelist" comment="" />
+      <created>1582981469397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582981469397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="319" key="GridCell.Tab.0.bottom" timestamp="1582984771590">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.0.bottom/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582984771590" />
+    <state width="1874" height="319" key="GridCell.Tab.0.center" timestamp="1582984771590">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.0.center/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582984771590" />
+    <state width="1874" height="319" key="GridCell.Tab.0.left" timestamp="1582984771590">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.0.left/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582984771590" />
+    <state width="1874" height="319" key="GridCell.Tab.0.right" timestamp="1582984771590">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.0.right/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582984771590" />
+    <state x="2686" y="536" width="387" height="126" key="ReplaceDuplicatesPrompt" timestamp="1582982430393">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2686" y="536" width="387" height="126" key="ReplaceDuplicatesPrompt/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582982430393" />
+    <state x="2552" y="495" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582981556731">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2552" y="495" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582981556731" />
+    <state x="2613" y="341" width="554" height="516" key="extract.method.dialog" timestamp="1582983011168">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2613" y="341" width="554" height="516" key="extract.method.dialog/3840.0.1920.1080/1920.0.1920.1200/47.27.1873.1053@1920.0.1920.1200" timestamp="1582983011168" />
+  </component>
+</project>

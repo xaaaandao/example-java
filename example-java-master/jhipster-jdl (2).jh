@@ -1,0 +1,30 @@
+entity Cliente {
+	ID Integer,
+    CPF String
+}
+
+entity Servico {
+	ID Integer
+}
+
+entity Item {
+	ID Integer,
+    Descricao String,
+    status StatusItem
+}
+
+enum StatusItem {
+    ABERTO, FECHADO
+}
+
+entity Vistoria {
+	ID Integer,
+	data Date
+}
+
+relationship OneToMany {
+	Cliente{ID} to Servico,
+	Servico{ID} to Item
+    Vistoria{ID} to Servico
+}
+
