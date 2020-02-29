@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f47377d4-b8c0-48e8-bc7b-5730c1ae5228" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YUVdKHGMLCXDASBiZuN5jRT9DP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-calculator-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldResultOfDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-calculator-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldResultOfDiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldResultOfSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-calculator-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldResultOfSub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldResultOfSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-calculator-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldResultOfSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldResultZeroOfSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-calculator-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldResultZeroOfSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.shouldResultOfDiv" />
+        <item itemvalue="JUnit.CalculatorTest.shouldResultOfSub" />
+        <item itemvalue="JUnit.CalculatorTest.shouldResultZeroOfSum" />
+        <item itemvalue="JUnit.CalculatorTest.shouldResultOfSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f47377d4-b8c0-48e8-bc7b-5730c1ae5228" name="Default Changelist" comment="" />
+      <created>1582997245595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582997245595</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="178" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582998568322">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="417" y="178" key="#com.intellij.ide.util.PackageChooserDialog/0.36.1366.732@0.36.1366.732" timestamp="1582998568322" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1583003342137">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.36.1366.732@0.36.1366.732" timestamp="1583003342137" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1583003342134">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.36.1366.732@0.36.1366.732" timestamp="1583003342134" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1583003342132">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.36.1366.732@0.36.1366.732" timestamp="1583003342132" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1583003342136">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.36.1366.732@0.36.1366.732" timestamp="1583003342136" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1583003342140">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.36.1366.732@0.36.1366.732" timestamp="1583003342140" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1583003342138">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.36.1366.732@0.36.1366.732" timestamp="1583003342138" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1583003342138">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.36.1366.732@0.36.1366.732" timestamp="1583003342138" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1583003342139">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.36.1366.732@0.36.1366.732" timestamp="1583003342139" />
+    <state x="387" y="296" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582997300445">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="387" y="296" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.36.1366.732@0.36.1366.732" timestamp="1582997300445" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/example_calculator_simple$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1583002896976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
